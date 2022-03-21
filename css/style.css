@@ -1,0 +1,126 @@
+* {
+    font-family: Poppins;
+    margin: 0%;
+}
+
+#hero {
+    background: url("../img/Group\ 10603@2x.png");
+    opacity: 1;
+    background-size: cover;
+    height: 710px;
+    padding-bottom: 80px;
+}
+
+#navbar {
+    max-width: 1200px;
+    margin: auto;
+    padding-top: 51px;
+}
+
+#navbar-logo {
+    width: 135px;
+    height: 53px;
+}
+
+#navbar a {
+    padding: 0px 25px;
+    text-decoration: none;
+    color: #fff;
+    font-size: 18px;
+}
+
+#navbar select {
+    text-decoration: none;
+    background: transparent;
+    border: none;
+    color: #fff;
+}
+
+#contact-us {
+    width: 142px;
+    height: 41px;
+    background-color: #0670F4;
+    border-radius: 9px;
+    color: #fff;
+    border: none;
+    font-size: 13px;
+}
+
+.allbtn {
+    width: 264px;
+    height: 77px;
+    background-color: #FFFFFF;
+    border-radius: 12px;
+    opacity: 1;
+    border: none;
+    font-size: 25px;
+    font-weight: 600;
+    columns: #242525;
+    align-items: center;
+    padding-bottom: 30px;
+}
+
+.allbtn img {
+    width: 35px;
+    height: 35px;
+    margin-left: 19px;
+    margin-top: 16px;
+}
+
+.percentage-block {
+    width: 139px;
+    height: 92px;
+    text-align: left;
+    font: normal normal 600 66px/71px Poppins;
+    letter-spacing: 0px;
+    color: #0670F4;
+    opacity: 1;
+}
+
+.block-defiation {
+    width: 161px;
+    height: 72px;
+    text-align: left;
+    font: normal normal normal 24px/39px Poppins;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+
+.estimatebtn {
+    width: 362px;
+    height: 77px;
+    background-color: #FFFFFF;
+    border-radius: 12px;
+    opacity: 1;
+    border: none;
+    font-size: 21px;
+    font-weight: 600;
+    columns: #242525;
+    align-items: center;
+    padding-bottom: 30px;
+}
+
+.estimatebtn img {
+    width: 34px;
+    height: 34px;
+    margin-left: 19px;
+    margin-top: 20px;
+}
+
+.estimatebtn p {
+    margin-top: 23px;
+    margin-left: 20px;
+}
+
+.social {
+    font-size: 20px;
+    padding-bottom: 30px;
+}
+
+.social img {
+    width: 66px;
+    height: 66px;
+    margin-right: 10px;
+    margin-top: 10px;
+}

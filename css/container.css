@@ -1,0 +1,15 @@
+.container {
+    margin: 0%;
+    padding: 0%;
+    display: flex;
+}
+
+.float-container {
+    padding: 0%;
+    display: flex;
+}
+
+.footer {
+    background-color: #F6F9FC;
+    background-size: cover;
+}
